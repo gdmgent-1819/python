@@ -1,5 +1,5 @@
-Web of Things
-=============
+Python
+======
 
 :thumbsup: `Graphics` :heart: `Code`
 
