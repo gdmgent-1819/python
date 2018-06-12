@@ -66,3 +66,19 @@
     department: PBAGDM
     major     : MMP
     minor     : NMD
+
+- id: 1819-PYTHON
+  type: MODULE
+  lang: nl
+  color: primary
+  title:
+    short: Python
+    long : Python
+  academic-year: 2018-2019
+  authors: # First is owner
+    - PDP
+  programme:
+    institute : AHS
+    department: PBAGDM
+    major     : MMP
+    minor     : NMD
